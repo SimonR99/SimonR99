@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Simon Roy
 #### A passionate software developer from Canada
 
-- 🔭 I’m currently working on **a mission planning tool at CSA for the lunar rover**
+- 🔭 I’m currently working on **a mission planning tool at the Canadian Space Agency for the lunar rover**
 - 🌱 I’m looking for an internship **in quantum computing** 
 - 👯 I founded [QuantumÉTS](https://quantumets.etsmtl.ca/), the quantum computing club at ÉTS
 - 😄 I'm fluent in **Pennylane, Qiskit, and multiple quantum programming libraries**
